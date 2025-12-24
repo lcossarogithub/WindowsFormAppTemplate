@@ -1,0 +1,12 @@
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.csproj.AssemblyReference.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.AssemblyInfoInputs.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.AssemblyInfo.cs
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.csproj.CoreCompileInputs.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\bin\Debug\net8.0\DatabaseManager.deps.json
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\bin\Debug\net8.0\DatabaseManager.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\bin\Debug\net8.0\DatabaseManager.pdb
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\refint\DatabaseManager.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.pdb
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\ref\DatabaseManager.dll

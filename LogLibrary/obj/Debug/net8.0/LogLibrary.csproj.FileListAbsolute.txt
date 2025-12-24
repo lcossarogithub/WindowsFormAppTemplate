@@ -1,0 +1,13 @@
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\bin\Debug\net8.0\nlog.config
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\bin\Debug\net8.0\LogLibrary.deps.json
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\bin\Debug\net8.0\LogLibrary.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\bin\Debug\net8.0\LogLibrary.pdb
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.csproj.AssemblyReference.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.AssemblyInfoInputs.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.AssemblyInfo.cs
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\refint\LogLibrary.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.pdb
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\ref\LogLibrary.dll

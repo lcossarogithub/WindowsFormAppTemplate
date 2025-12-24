@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4wGANk6pjM=",
+  "success": true,
+  "projectFilePath": "D:\\Work\\Luca\\progetti\\C_#\\WindowsFormAppTemplate\\WindowsFormAppTemplate\\LogLibrary\\LogLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luca\\.nuget\\packages\\nlog\\6.0.4\\nlog.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
