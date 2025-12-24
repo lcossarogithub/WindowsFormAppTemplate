@@ -161,3 +161,4 @@ D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsF
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.gentestingplatformentrypointinputcache.cache
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.genautoregisteredextensionsinputcache.cache
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.Forms.FormLogin.resources
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.sourcelink.json

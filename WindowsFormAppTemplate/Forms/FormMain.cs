@@ -22,12 +22,17 @@ namespace WindowsFormAppTemplate
             {
                 this.Text = ConfigurationHandler.GetConfigurationValue("Title");
                 string LogFilename = ConfigurationHandler.GetConfigurationValue("LogFilename");
-             
+
 
 
             }
             catch (Exception ex)
             { }
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
