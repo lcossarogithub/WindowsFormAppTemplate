@@ -37,6 +37,7 @@ namespace WindowsFormAppTemplate.Forms
 
         private void CustomInitialization()
         {
+            this.Icon = new Icon("Icons/computer_30842_32x32.ico");
             btnLogin.Enabled = false;
             databaseManager = DatabaseHandler.GetInstance();
             databaseUsers = databaseManager.GetUsers();
