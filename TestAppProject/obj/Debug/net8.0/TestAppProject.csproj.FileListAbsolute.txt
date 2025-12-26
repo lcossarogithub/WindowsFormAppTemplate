@@ -124,3 +124,4 @@ D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\TestAppP
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\TestAppProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\TestAppProject\bin\Debug\net8.0\DatabaseManager.dll
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\TestAppProject\bin\Debug\net8.0\DatabaseManager.pdb
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\TestAppProject\obj\Debug\net8.0\TestAppProject.sourcelink.json

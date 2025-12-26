@@ -10,3 +10,4 @@ D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\Database
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\refint\DatabaseManager.dll
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.pdb
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\ref\DatabaseManager.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\DatabaseManager\obj\Debug\net8.0\DatabaseManager.sourcelink.json

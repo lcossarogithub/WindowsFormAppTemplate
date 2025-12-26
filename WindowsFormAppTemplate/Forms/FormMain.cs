@@ -8,6 +8,11 @@ namespace WindowsFormAppTemplate
 {
     public partial class FormMain : Form
     {
+        /// <summary>
+        /// \brief FormMain constructor
+        /// 
+        /// FormMain constructor with custom initialization and center to screen command
+        /// </summary>
         public FormMain()
         {
             InitializeComponent();
@@ -21,8 +26,12 @@ namespace WindowsFormAppTemplate
         {
             try
             {
-                this.Icon = new Icon("Icons/computer_30842_32x32.ico");
                 this.Text = ConfigurationHandler.GetConfigurationValue("Title");
+                Icon AppIcon = new Icon(ConfigurationHandler.GetConfigurationValue("Icon"));
+                if (AppIcon != null) 
+                {
+                    this.Icon = AppIcon;
+                }                                                
                 string LogFilename = ConfigurationHandler.GetConfigurationValue("LogFilename");
             }
             catch (Exception ex)
@@ -36,8 +45,9 @@ namespace WindowsFormAppTemplate
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string _version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-            DialogResult res = MessageBox.Show("Version: "+ _version, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            FormAbout formAbout = new FormAbout();
+            formAbout.ShowDialog();
         }
     }
 }

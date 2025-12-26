@@ -11,3 +11,4 @@ D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibra
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\refint\LogLibrary.dll
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.pdb
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\ref\LogLibrary.dll
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\LogLibrary\obj\Debug\net8.0\LogLibrary.sourcelink.json

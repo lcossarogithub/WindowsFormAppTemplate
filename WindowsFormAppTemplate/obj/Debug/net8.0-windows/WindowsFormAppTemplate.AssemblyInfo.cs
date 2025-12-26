@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsFormAppTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8561a651ffbb5676445fa3a2603eeb3e4a35ea8e")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d77987e25f32348707ca352404de374bc26765e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsFormAppTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsFormAppTemplate")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.9.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 

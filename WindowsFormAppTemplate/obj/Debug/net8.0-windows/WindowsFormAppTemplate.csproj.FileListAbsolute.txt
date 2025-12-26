@@ -166,3 +166,5 @@ D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsF
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\bin\Debug\net8.0-windows\Icons\computer_30842.png
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\bin\Debug\net8.0-windows\Icons\computer_30842_32x32.ico
 D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\bin\Debug\net8.0-windows\Icons\computer_30842_64x64.ico
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.Forms.FormAbout.resources
+D:\Work\Luca\progetti\C_#\WindowsFormAppTemplate\WindowsFormAppTemplate\WindowsFormAppTemplate\obj\Debug\net8.0-windows\WindowsFormAppTemplate.Properties.Resources.resources

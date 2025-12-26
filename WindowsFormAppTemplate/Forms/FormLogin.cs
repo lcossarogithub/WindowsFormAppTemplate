@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DatabaseManager;
+using WindowsFormAppTemplate.Configuration;
 
 namespace WindowsFormAppTemplate.Forms
 {
@@ -37,10 +38,20 @@ namespace WindowsFormAppTemplate.Forms
 
         private void CustomInitialization()
         {
-            this.Icon = new Icon("Icons/computer_30842_32x32.ico");
-            btnLogin.Enabled = false;
-            databaseManager = DatabaseHandler.GetInstance();
-            databaseUsers = databaseManager.GetUsers();
+            try
+            {
+                Icon AppIcon = new Icon(ConfigurationHandler.GetConfigurationValue("Icon"));
+                if (AppIcon != null)
+                {
+                    this.Icon = AppIcon;
+                }
+                btnLogin.Enabled = false;
+                databaseManager = DatabaseHandler.GetInstance();
+                databaseUsers = databaseManager.GetUsers();
+            }
+            catch (Exception ex)
+            {
+            }
         }
 
         private void txtUsername_TextChanged(object sender, EventArgs e)
